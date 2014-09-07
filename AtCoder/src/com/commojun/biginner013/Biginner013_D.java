@@ -41,6 +41,7 @@ public class Biginner013_D {
 			System.out.println(goAmida(i+1, loop));
 		}
 
+//		hello
 
 		sc.close();
 	}
