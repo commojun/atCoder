@@ -1,3 +1,4 @@
+package com.commojun.biginner013;
 import java.util.Scanner;
 
 public class Biginner013_1 {
