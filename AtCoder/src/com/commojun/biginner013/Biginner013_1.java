@@ -20,7 +20,6 @@ public class Biginner013_1 {
 		}
 		System.out.println(num);
 
-
 		sc.close();
 	}
 }
