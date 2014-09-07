@@ -18,5 +18,6 @@ public class Biginner013_B {
 		System.out.println(dist);
 
 		sc.close();
+//		helloB
 	}
 }
