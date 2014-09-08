@@ -1,4 +1,4 @@
-package com.commojun.biginner013;
+package biginner013;
 
 import java.util.Scanner;
 
